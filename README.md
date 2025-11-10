@@ -7,8 +7,8 @@ Data Engineer
 I have a strong passion for computers and I'm eager to explore the latest advancements in technology. I aim to apply my skills to real-world projects and contribute to innovative solutions in this dynamic environment.
 
 * 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [Portfolio](https://aadithyavikram.github.io/)
-* ✉️  You can contact me at [adithyavb26@gmai.com](mailto:adithyavb26@gmai.com)
+* 🖥️  See my portfolio at [aadithyavikram.github.io](https://aadithyavikram.github.io/)
+* ✉️  You can contact me at [adithyavb26@gmail.com](mailto:adithyavb26@gmail.com)
 * 🧠  I'm currently learning alot of new tech (why not!!)
 * 👥  I'm looking to collaborate on projects
 * 💬  Working at EPAM systems right now
